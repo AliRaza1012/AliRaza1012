@@ -1,33 +1,38 @@
 # Hi, I'm Ali Raza 👋
 
-Welcome to my GitHub profile. I'm a developer focused on building practical, reliable software and continuously improving my skills.
+### Developer • Problem Solver • Lifelong Learner
 
-## About me
+I enjoy turning ideas into useful software, learning modern technologies, and building projects that are simple, reliable, and easy to use.
 
-- 🔭 I’m currently working on: **Add your current project here**
-- 🌱 I’m currently learning: **Add the technologies you are learning here**
-- 👯 I’m interested in collaborating on: **Add project areas here**
-- 💬 Ask me about: **Add your strongest topics here**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) · [Email](mailto:your-email@example.com)
+## What I do
 
-## Skills
+- Build practical software projects
+- Learn and experiment with new technologies
+- Improve code quality, performance, and user experience
+- Collaborate with developers and open-source communities
 
-`Add your skills here` · `JavaScript` · `Python` · `Git` · `GitHub`
+## Tech stack
 
-## Featured projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 
-| Project | Description |
-| --- | --- |
-| [Add project](https://github.com/AliRaza1012) | Add a short description of your best project. |
-| [Add project](https://github.com/AliRaza1012) | Add a short description of another project. |
+## Featured work
 
-## GitHub activity
+Check out my repositories to see what I am building and learning. I am continuously adding projects, improving documentation, and sharing useful code.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRaza1012&show_icons=true&hide_border=true&rank_icon=github)
+## Current focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza1012&layout=compact&hide_border=true)
+- Strengthening my software development skills
+- Building a strong portfolio of real-world projects
+- Contributing to meaningful developer communities
 
 ## Let's connect
 
 - GitHub: [@AliRaza1012](https://github.com/AliRaza1012)
-- LinkedIn: [Add your profile](https://www.linkedin.com/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
